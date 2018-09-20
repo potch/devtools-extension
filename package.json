@@ -1,0 +1,17 @@
+{
+  "name": "devtools-extension",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "web-ext run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "web-ext": "^2.8.0",
+    "webextension-polyfill": "^0.3.0"
+  }
+}
